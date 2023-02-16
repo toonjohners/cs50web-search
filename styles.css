@@ -115,7 +115,7 @@ body {
   }
   .advanced-search-container .whitespace {
     display: inline-block;
-    width: 50%;
+    width: 21%;
   }
   .advanced-search-container .form-group {
     display: flex;
@@ -128,7 +128,7 @@ body {
     font-size: 14px;
   }
   .advanced-search-container .form-group input[type=text] {
-    width: 49%;
+    width: 20%;
     padding: 2px 0;
   }
   .advanced-search-container .form-group .clarification {
@@ -140,7 +140,7 @@ body {
     font-family: monospace;
   }
   .advanced-search-container .form-group .right-align {
-    width: 50%;
+    width: 30%;
   }
   
   
